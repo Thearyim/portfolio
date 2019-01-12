@@ -35,6 +35,10 @@ img {
   margin: 8px;
 }
 
+.me {
+  color: #37408B;
+}
+
 @media screen and (max-width: 1800px) {
   body {
     background-color: #CBB5B1;
