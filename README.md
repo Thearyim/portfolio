@@ -12,18 +12,18 @@
 * _Theary's hobbies and interests_
 
 ## Setup/Installation Requirements
-_1. Through the HTML file:_
-* _Install Git_
-* _Clone repository by using "git clone (https://github.com/Thearyim/portfolio)"_
+* Install Git:  https://git-scm.com/downloads
+* _Clone repository by using "git clone https://github.com/Thearyim/portfolio"_
 * _Navigate to "Portfolio" directory_
 * _Open in Atom or preferred text editor_
 
-_2. Through the URL: https://github.com/Thearyim/portfolio _
+## View My Webpage Here
+https://thearyim.github.io/portfolio/
 
 ## Known Bugs
 _Currently no known bugs._
 
-## Support and contact details
+## Support and Contact Details
 _thearyim@gmail.com_
 
 ## Technologies Used
