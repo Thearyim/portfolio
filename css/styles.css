@@ -26,9 +26,18 @@ img {
 }
 
 .sidebar {
-  float: right;
+  width: 200px;
   padding: 8px;
   color: #37408B;
+}
+
+.standout {
+  margin: 8px;
+  border: 1px solid #111;
+  -webkit-box-shadow: 10px 10px 7px #999999;
+  -webkit-border-bottom-right-radius: 15px;
+  -webkit-border-radius: 15px;
+
 }
 
 .text {
@@ -41,7 +50,7 @@ img {
 
 @media screen and (max-width: 1800px) {
   body {
-    background-color: #CBB5B1;
+    background-color: white;
     color: black;
   }
 }
