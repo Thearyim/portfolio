@@ -12,13 +12,13 @@
 * _Theary's hobbies and interests_
 
 ## Setup/Installation Requirements
-* _[Install Git: ] (https://git-scm.com/downloads)_
+* Install Git:  https://git-scm.com/downloads
 * _Clone repository by using "git clone https://github.com/Thearyim/portfolio"_
 * _Navigate to "Portfolio" directory_
 * _Open in Atom or preferred text editor_
 
 ## View My Webpage Here
-_https://thearyim.github.io/portfolio/ _
+https://thearyim.github.io/portfolio/
 
 ## Known Bugs
 _Currently no known bugs._
